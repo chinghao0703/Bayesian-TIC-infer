@@ -4,4 +4,6 @@ This repo constains the python class that analyzes time-course experimental data
 
 HTML versions of these notebooks are here:
 
-(d)[http://physics.bu.edu/~chinghao/Bayesian-TIC/Generate_n_analyze_exp.html]
+http://physics.bu.edu/~chinghao/Bayesian-TIC/Generate_n_analyze_exp.html
+
+http://physics.bu.edu/~chinghao/Bayesian-TIC/synthetic_data.html
